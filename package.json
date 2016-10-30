@@ -1,0 +1,9 @@
+{
+  "name": "Whiteberry",
+  "version": "0.0.1",
+  "author": "Deddy Lasmono Putro"
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-less": "~0.10.0"
+  }
+}
